@@ -32,3 +32,10 @@ WHOIS lookup for an IP range is done by extracting the IP range using dig and pa
 
  Finally, the script displays a completion message. Please note that this script provides a starting point for reconnaissance, but it's important to ensure you have proper authorization and adhere to legal and ethical guidelines when conducting security assessments or testing.
 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ USAGE
+
+ sudo ./advrecon.sh (Because this script require root privilege)
+ Enter the target IP address or domain  => www.example.com 
+
+
